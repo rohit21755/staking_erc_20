@@ -36,3 +36,4 @@ contract StakingContract {
         lastTimeUpdated[_address] = block.timestamp;
     }
  }
+// add test later
